@@ -1,0 +1,4 @@
+- Preparing a repo to collect document/resources we'll share with students on weeks/days/etc.
+- I don't think we have to share _this repo_ with students but just want to consolidate everything here (documents/links/etc.).
+- Using [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf) to help create PDFs from Markdown files.
+- Next, I picture we'll have a PDF document for each day of the course that details what videos students will go through + any other additional material.
