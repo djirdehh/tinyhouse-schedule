@@ -4,58 +4,37 @@
 
 In week 3, we continue from the last week and build more concrete features of our application. In week 3, we'll:
 
-- Build the homepage of our application.
-- Interact with [Google's Geocoding API](https://developers.google.com/maps/documentation/geocoding/start) to resolve the address/location inputs provided by a user.
-- Use [Stripe](https://stripe.com/) to help handle payments between tenants and hosts.
-- Introduce a mutation to have users be able to host listings in the application.
-- Finally, leverage [Cloudinary](http://cloudinary.com/), a cloud-based image (and video) management service to store images for new listings on the cloud.
-
-Here is a further breakdown of week 3.
+- Establish and seed the collections in our database with mock data.
+- Explain and use OAuth 2.0 to establish a login process.
+- Gain an understanding of how cookies help with persistent log-in sessions.
+  Here is a further breakdown of week 3.
 
 ## Day 1
 
 > ➡️ Go [here](https://example.com) for a detailed breakdown of Week 3 | Day 1.
 
-### Module 8
+### Module 3
 
-- **Topic**: Building the Home Page
-- **Description**: Build the home page (i.e. the `/` route) of our app.
-- **Introduction**: [Link](https://www.newline.co/courses/tinyhouse-react-masterclass-part-2/module-8-introduction).
+- **Topic**: Setting up our Database
+- **Description**: Set up our database, establish the TypeScript definitions of data we'll have in our database, and seed our database with mock data.
+- **Introduction Video**: [Link](https://www.newline.co/courses/tinyhouse-react-masterclass-part-2/module-3-introduction).
 
 ## Day 2
 
 > ➡️ Go [here](https://example.com) for a detailed breakdown of Week 3 | Day 2.
 
-### Module 9
+### Module 4
 
-- **Topic**: Searching for listings with Google's Geocoding API
-- **Description**: Interact with [Google's Geocoding API](https://developers.google.com/maps/documentation/geocoding/start) to resolve the address/location inputs provided by a user.
-- **Introduction**: [Link](https://www.newline.co/courses/tinyhouse-react-masterclass-part-2/module-9-introduction).
-
-<br><br><br><br><br><br>
+- **Topic**: User Authentication with Google Sign-In & OAuth 2.0
+- **Description**: Establish user authentication with Google Sign-In & OAuth 2.0.
+- **Introduction Video**: [Link](https://www.newline.co/courses/tinyhouse-react-masterclass-part-2/module-4-introduction).
 
 ## Day 3
 
 > ➡️ Go [here](https://example.com) for a detailed breakdown of Week 3 | Day 3.
 
-### Module 10
+### Module 5
 
-- **Topic**: Connecting with Stripe
-- **Description**: Use and utilize [Stripe](https://stripe.com/) to help handle payments between tenants and hosts.
-- **Introduction**: [Link](https://www.newline.co/courses/tinyhouse-react-masterclass-part-2/module-10-introduction).
-
-## Day 4
-
-> ➡️ Go [here](https://example.com) for a detailed breakdown of Week 3 | Day 4.
-
-### Module 11
-
-- **Topic**: Hosting new listings
-- **Description**: Introduce a mutation to have users be able to host listings in the application.
-- **Introduction**: [Link](https://www.newline.co/courses/tinyhouse-react-masterclass-part-2/module-11-introduction).
-
-### Module 12
-
-- **Topic**: Cloudinary & image storage
-- **Description**: leverage [Cloudinary](http://cloudinary.com/), a cloud-based image (and video) management service to store images for new listings on the cloud.
-- **Introduction**: [Link](https://www.newline.co/courses/tinyhouse-react-masterclass-part-2/module-12-introduction).
+- **Topic**: Persist Login Sessions with Cookies
+- **Description**: Gain an understanding of how cookies can help with persistent log-in sessions.
+- **Introduction Video**: [Link](https://www.newline.co/courses/tinyhouse-react-masterclass-part-2/module-5-introduction).

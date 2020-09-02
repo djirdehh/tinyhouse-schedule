@@ -2,20 +2,56 @@
 
 # Week 2
 
-In week 2, we dive towards building the application we would want to build in this cohort. In week 2, we'll:
+In week 2, we continue from the last week. By the mid of Week 2, we'll find ourselves having the boilerplate of a fully functioning client and server application. In week 2, we'll:
 
+- Create a [React](http://reactjs.org) project with [`create-react-app`](https://github.com/facebook/create-react-app).
+- Introduce and use [React Hooks](https://reactjs.org/docs/hooks-intro.html).
+- Use [Apollo Client](https://apollographql.com/docs/react/) to make our GraphQL requests.
+- Finally, use the [Ant Design UI](https://ant.design/) framework to help style our client application.
 - Think about the application we would want to build and the features it is to have.
 - We'll address and establish routing within the context of our web application.
-- Establish and seed the collections in our database with mock data.
-- Explain and use OAuth 2.0 to establish a login process.
-- Gain an understanding of how cookies help with persistent log-in sessions.
-- Finally, begin building the User and Listing page of our app.
-
-Here is a further breakdown of week 2.
 
 ## Day 1
 
 > ➡️ Go [here](https://example.com) for a detailed breakdown of Week 2 | Day 1.
+
+### Module 5
+
+- **Topic**: Getting Started with React
+- **Description**: Introduce React as the main tool to build our client application and use the `create-react-app` utility to scaffold a new React application.
+- **Introduction Video**: [Link](https://www.newline.co/courses/tinyhouse-react-masterclass/lesson_5.0-module-5-introduction).
+
+### Module 6
+
+- **Topic**: Building out Listings
+- **Description**: We'll have our client application make API requests to our server using GraphQL.
+- **Introduction Video**: [Link](https://www.newline.co/courses/tinyhouse-react-masterclass/lesson_6.0-module-6-introduction).
+
+## Day 2
+
+> ➡️ Go [here](https://example.com) for a detailed breakdown of Week 2 | Day 2.
+
+### Module 7
+
+- **Topic**: GraphQL and React Hooks
+- **Description**: Get introduced to React Hooks to display data in our UI as well as handle our GraphQL API requests.
+- **Introduction Video**: [Link](https://www.newline.co/courses/tinyhouse-react-masterclass/lesson_7.0-module-7-introduction).
+
+### Module 8
+
+- **Topic**: Introducing React Apollo
+- **Description**: We'll take everything we've learned from our custom Hooks implementation and now switch over to using React Apollo to make our GraphQL requests.
+- **Introduction Video**: [Link](https://www.newline.co/courses/tinyhouse-react-masterclass/lesson_8.0-module-8-introduction).
+
+### Module 9
+
+- **Topic**: Styling with Ant Design
+- **Description**: In the last module of week 1, we'll see how we can make our app look a little bit nicer by introducing a CSS/UI library.
+- **Introduction Video**: [Link](https://www.newline.co/courses/tinyhouse-react-masterclass/lesson_9.0-module-9-introduction).
+
+## Day 3
+
+> ➡️ Go [here](https://example.com) for a detailed breakdown of Week 2 | Day 3.
 
 ### Module 1
 
@@ -28,47 +64,3 @@ Here is a further breakdown of week 2.
 - **Topic**: Routing in TinyHouse
 - **Description**: Address and establish routing within the context of our web application.
 - **Introduction Video**: [Link](https://www.newline.co/courses/tinyhouse-react-masterclass-part-2/module-2-introduction).
-
-## Day 2
-
-> ➡️ Go [here](https://example.com) for a detailed breakdown of Week 2 | Day 2.
-
-### Module 3
-
-- **Topic**: Setting up our Database
-- **Description**: Set up our database, establish the TypeScript definitions of data we'll have in our database, and seed our database with mock data.
-- **Introduction Video**: [Link](https://www.newline.co/courses/tinyhouse-react-masterclass-part-2/module-3-introduction).
-
-<br>
-
-## Day 3
-
-> ➡️ Go [here](https://example.com) for a detailed breakdown of Week 2 | Day 3.
-
-### Module 4
-
-- **Topic**: User Authentication with Google Sign-In & OAuth 2.0
-- **Description**: Establish user authentication with Google Sign-In & OAuth 2.0.
-- **Introduction Video**: [Link](https://www.newline.co/courses/tinyhouse-react-masterclass-part-2/module-4-introduction).
-
-### Module 5
-
-- **Topic**: Persist Login Sessions with Cookies
-- **Description**: Gain an understanding of how cookies can help with persistent log-in sessions.
-- **Introduction Video**: [Link](https://www.newline.co/courses/tinyhouse-react-masterclass-part-2/module-5-introduction).
-
-## Day 4
-
-> ➡️ Go [here](https://example.com) for a detailed breakdown of Week 2 | Day 4.
-
-### Module 6
-
-- **Topic**: Building the User Page
-- **Description**: Build the user page to display information of a certain user in our application.
-- **Introduction Video**: [Link](https://www.newline.co/courses/tinyhouse-react-masterclass-part-2/module-6-introduction).
-
-### Module 7
-
-- **Topic**: Building the Listing Page
-- **Description**: Build the listing page to display information of a certain listing in our application.
-- **Introduction Video**: [Link](https://www.newline.co/courses/tinyhouse-react-masterclass-part-2/module-7-introduction).
